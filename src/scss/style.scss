@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+
+    nav {
+        display: flex;
+        gap: 15px;
+    }
+
+}
+
+main {
+    width: calc(100% - 50px);
+    max-width: 700px;
+    margin: 15px auto;
+}
+
+p { text-align: justify }

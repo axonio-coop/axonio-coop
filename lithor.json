@@ -1,0 +1,7 @@
+{
+    "$schema": "https://unpkg.com/lithor/assets/schema.json",
+    "name": "Axónio",
+    "paths": {
+        "build": "docs"
+    }
+}
