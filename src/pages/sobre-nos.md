@@ -15,8 +15,13 @@ individuais. Os dez princípios para o cooperativismo de plataforma que
 tentamos seguir são os seguintes:
 
 ## 1. Propriedade
-A Infraestrutura que é a Internet foi inicialmente pensada em ambiente militar e académico, sendo mais tarde partilhada por entidades 
-privadas.
+A Infraestrutura que é a Internet foi inicialmente pensada em ambiente 
+militar e académico, sendo mais tarde partilhada por entidades 
+privadas. A forma mais comum de utilização desta rede massiva é através
+da _World Wide Web_ ou também, apenas, _Web_. Esta aplicação que vive 
+em cima de toda a infraestrutura de cabos roteadores e outros 
+dispositivos permite, hoje em dia, a partilha de informação a qualquer 
+que tenha acesso.
 ## 2. Direitos para quem trabalha
 ## 3. Transparência na forma de operar
 ## 4. Apreciação e reconhecimento
