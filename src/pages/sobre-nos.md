@@ -20,17 +20,17 @@ universidades estadounidenses com financiamento vindo da parte do
 departamento da defesa e do exército. Também em ambiente académico se 
 deu a primeira conexão remota de 4 terminais localizados em posições 
 geográficas distintas. Através do projeto DARPA uma rede de nome ARPANET
-foi criada com o objetivo partilhar informação e poder de processamento 
-entre instituições de investigação. Muitos dos membros destes centros 
-defendiam a necessidade de acesso de todos
+foi criada com o objetivo de partilhar informação e poder de 
+processamento entre instituições de investigação. Muitos dos membros 
+destes centros defendiam a necessidade não só de acesso como também de 
+participação democrática na utilização destes recursos por parte de 
+todos. A conversão desta tecnologia do domínio publico para o domínio 
+privado veio mais tarde com a forte intervenção política de entidades 
+privadas que desejavam poder lucrar com a existência desta estrutura. 
+De uma geral, a Internet não poderia ter sido criada por um esforço 
+privado, a sua emergência vem de um esforço coletivo que nasce da 
+necessidade de partilhar informação e conhecimento.
 
-A Infraestrutura que é a Internet foi inicialmente pensada em ambiente 
-militar e académico, sendo mais tarde partilhada por entidades 
-privadas. A forma mais comum de utilização desta rede massiva é através
-da _World Wide Web_ ou também, apenas, _Web_. Esta aplicação que vive 
-em cima de toda a infraestrutura de cabos roteadores e outros 
-dispositivos permite, hoje em dia, a partilha de informação a qualquer 
-que tenha acesso.
 ## 2. Direitos para quem trabalha
 ## 3. Transparência na forma de operar
 ## 4. Apreciação e reconhecimento
